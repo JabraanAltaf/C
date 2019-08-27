@@ -6,3 +6,5 @@ Game Of Life -> Program which runs the game of life given an initial configurati
 
 Highway Sim -> Progam which simulates cars on highway lanes, where when given a car lane and it's arrival time, each car already on the 
   lanes shift to the right and the car arrives at the first spot of the lane.
+
+area_circumference -> program which works out the sum of the area and circumference for two circles
