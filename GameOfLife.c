@@ -1,14 +1,3 @@
-/*
-* Student ID: 201275442
-* Student Name: Jabraan Altaf
-* Email: sgjaltaf@student.liverpool.ac.uk
-*
-* User: sgjaltaf
-*
-* Problem ID: 1081
-* RunID: 34151
-* Result: Accepted
-*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
