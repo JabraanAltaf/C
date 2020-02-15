@@ -1,14 +1,4 @@
-/*
-* Student ID: 201275442
-* Student Name: Jabraan Altaf
-* Email: sgjaltaf@student.liverpool.ac.uk
-*
-* User: sgjaltaf
-*
-* Problem ID: 1084
-* RunID: 34144
-* Result: Accepted
-*/
+
 #include <stdio.h>
 #include <stdlib.h>
 /* Function prototypes */
